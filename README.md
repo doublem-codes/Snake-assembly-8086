@@ -3,14 +3,14 @@ The "snake" game in 8086 assembly language.
 
 ## Installation
 
-- All the `EMU8086 - MICROPROCESSOR EMULATOR ` required to - First it is necesesary to install EMU8086, which provides the ability to emulate old 8086 processors, from:
+- First it is necesesary to install `EMU8086 - MICROPROCESSOR EMULATOR`, which provides the ability to emulate old 8086 processors, from:
 
     https://sites.google.com/site/emu8086assembler/download
 
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+- Clone this repo to your local machine using `https://github.com/doublem-codes/snake-assembly-8086.git`
 
 
 ## Running the program

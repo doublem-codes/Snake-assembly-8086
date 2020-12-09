@@ -1,4 +1,4 @@
-# snake-assembly-8086
+# Snake-assembly-8086
 The "snake" game in 8086 assembly language.
 
 ## Installation
